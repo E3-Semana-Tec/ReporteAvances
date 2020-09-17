@@ -44,7 +44,7 @@ Su modelo en el que utilizan el internet de las cosas (IOTS) es brindando ayuda 
 - ¿Cuál es el proceso que involucra a estos públicos?
 - ¿Qué datos se generan y registran durante este proceso?
 
-[Contestar aquí]
+El modelo que seleccionamos fue la marca automotriz Tesla La cual consideramos que es un beneficio mas accesible para la población ya que casi todo el mundo utiliza los automóviles y es un beneficio hacia todas las personas que pudieran comprar dicho automóvil. Su propuesta de valor es la creación de automóviles, electicos, autónomos y cómodos, estos con varios sistemas IoT que favorecen en la comodidad del propietario. Gracias al IoT puede manejar autónomamente y crear rutas más eficientes diseñadas con base a la batería del automóvil, el destino y distintas estaciones de carga para el vehículo. Además, cuenta con un software que avisa al usuario si el automóvil tiene algún problema y este puede comunicarse fácilmente con la agencia y en caso de accidentes automovilísticos podría comunicarse con servicios de ayuda. 
 
 # Guía rápida introductoria al uso de GitHub, sus comandos básicos y recursos de apoyo en línea. 
 
