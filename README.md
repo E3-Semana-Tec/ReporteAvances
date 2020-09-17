@@ -48,4 +48,43 @@ Su modelo en el que utilizan el internet de las cosas (IOTS) es brindando ayuda 
 [Contestar aquí]
 
 # Guía rápida introductoria al uso de GitHub, sus comandos básicos y recursos de apoyo en línea. 
-[Contestar aquí]
+[
+GIT LOG
+-git log -<limite>
+Limita el número de commits a <limite>. Ejemplo.  “git log -5” limitará a 5 commits.
+-git log –oneline
+Une cada commit en una sola línea.
+-git log -p
+Muestra la diferencia completa de cada commit.
+-git log –stat
+Incluye qué archivos fueron alterados y el número relativo de líneas que se agregaron o eliminaron de cada uno de ellos.
+-git log --author= ”<compañero>”
+Busca commits de un autor en particular.
+-git log --grep=”<compañero>”
+Busca commits con un mensaje de commit que coincide con <compañero>.
+-git log <desde>..<hasta>
+Muestra los commits que ocurren entre <desde> y <hasta>. Args puede ser un ID de confirmación, nombre de rama, HEAD o cualquier otro tipo de referencia de revisión.
+-git log --<archivo>
+Solo muestra los commits que tiene el archivo especificado.
+-git log --graph—decorate
+--graph flag dibuja un gráfico basado en texto de confirmaciones en el lado izquierdo de la confirmación msgs. --decorate agrega nombres de ramas o etiquetas de confirmaciones que se muestran.
+GIT DIFF
+-git diff HEAD 
+Muestra la diferencia entre el directorio de trabajo y la última confirmación.
+-git diff --cached 
+Muestra la diferencia entre los cambios preparados y la última confirmación.
+REWRITING GIT HISTORY
+-git commit--amend
+Reemplace la última confirmación con los cambios por etapas y la última confirmación conjunto. Usa sin nada preparado para editar el mensaje de la última confirmación.
+-git rebase <base>
+Vuelva a basar la rama actual en <base>. <base> puede ser un ID de confirmación, nombre de la rama, una etiqueta o una referencia relativa a HEAD.
+-git reflog 
+Muestra un registro de cambios en el HEAD del repositorio local. Agrega la marca --relative-date para mostrar la información de la fecha o --all para mostrar todas las referencias.
+UNDOING CHANGES
+-git revert <commit>
+Crear una nueva confirmación que deshaga todos los cambios realizados en <commit>, luego aplíquelo a la rama actual.
+-git reset <file> 
+Elimina <file> del área de ensayo, pero deja el directorio de trabajo sin alterar. Esto desestabiliza un archivo sin sobrescribir ningún cambio.
+-git clean -n 
+Muestra qué archivos se eliminarían del directorio de trabajo. Utilice el indicador -f en lugar del indicador -n para ejecutar la limpieza.
+]
