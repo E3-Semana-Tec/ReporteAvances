@@ -1,10 +1,7 @@
 # Empresas identificadas 
 
 ## ![Image](https://github.com/E3-Semana-Tec/ReporteAvances/blob/master/Imagenes/tesla-logo-text-png-7_opt.png)
-(Aqui debemos poner el texto que conteste estas preguntas para tesla)
-- ¿Qué empresa es? ¿En qué sector se encuentra?
-- ¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
-- ¿Qué problemática o necesidad resuelve?
+
 
 La Empresa Tesla De Elon Musk es del ramo automotriz y es una empresa la cual tiene como misión crear los mejores automóviles eléctricos y la mejor calidad a su consumidor. Es una empresa enfocada en el futuro y en la ecología. Sus principales funciones que la diferencian de otras marcas de automoviles son que fueron pioneros en la elaboracion de automoviles completamente electricos y son los mas avanzados en esa area y ademas su manejo autonomo lo cual genera un gran confort al propietario a la hora de trasladarse a lugares lejanos.
 
