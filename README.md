@@ -36,7 +36,7 @@ Qualcomm es una compañía estadounidense que produce chipsets para la tecnolog�
 Su modelo en el que utilizan el internet de las cosas (IOTS) es brindando ayuda a sus clientes para poder comercializar sus productos de una manera más rápida y con costos beneficiosos para ambas partes de esa manera solucionan la problemática, utilizando plataformas optimizadas en las áreas de cuerpos inteligentes, hogares inteligentes y ciudades inteligentes.
 
 
-# El modelo de uso de IoT seleccionado colaborativamente. (esto se removera al finalizar el llenado, apliquen el mismo formato que en las anteriores)
+# El modelo de uso de IoT seleccionado colaborativamente.
 - ¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?
 - ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?
 - ¿Cuál es la propuesta de valor para estos públicos?
