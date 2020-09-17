@@ -21,14 +21,6 @@ De esta forma, Find My Kia ayuda a todos los clientes de KIA Motors en la recupe
 Para saber más: [link](https://www.att.com.mx/newsroom/noticia/att-conecta-el-nuevo-desarrollo-de-kia-motors)
 
 
-## ![Image](https://github.com/E3-Semana-Tec/ReporteAvances/blob/master/Imagenes/1280px-Oracle_logo_opt.png)
-(Aqui debemos poner el texto que conteste estas preguntas para Oracle)
-- ¿Qué empresa es? ¿En qué sector se encuentra?
-- ¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
-- ¿Qué problemática o necesidad resuelve?
-
-[Contestar aquí]
-
 ## ![Image](https://github.com/E3-Semana-Tec/ReporteAvances/blob/master/Imagenes/qualcomlogo.png)
 
 
@@ -38,13 +30,12 @@ Su modelo en el que utilizan el internet de las cosas (IOTS) es brindando ayuda 
 
 
 # El modelo de uso de IoT seleccionado colaborativamente.
-- ¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?
-- ¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?
-- ¿Cuál es la propuesta de valor para estos públicos?
-- ¿Cuál es el proceso que involucra a estos públicos?
-- ¿Qué datos se generan y registran durante este proceso?
 
-El modelo que seleccionamos fue la marca automotriz Tesla La cual consideramos que es un beneficio mas accesible para la población ya que casi todo el mundo utiliza los automóviles y es un beneficio hacia todas las personas que pudieran comprar dicho automóvil. Su propuesta de valor es la creación de automóviles, electicos, autónomos y cómodos, estos con varios sistemas IoT que favorecen en la comodidad del propietario. Gracias al IoT puede manejar autónomamente y crear rutas más eficientes diseñadas con base a la batería del automóvil, el destino y distintas estaciones de carga para el vehículo. Además, cuenta con un software que avisa al usuario si el automóvil tiene algún problema y este puede comunicarse fácilmente con la agencia y en caso de accidentes automovilísticos podría comunicarse con servicios de ayuda. 
+El modelo que seleccionamos fue la marca automotriz Tesla La cual consideramos que es un beneficio mas accesible para la población ya que casi todo el mundo utiliza los automóviles y es un beneficio hacia todas las personas que pudieran comprar dicho automóvil. Su propuesta de valor es la creación de automóviles, electicos, autónomos y cómodos, estos con varios sistemas IoT que favorecen en la comodidad del propietario. 
+
+Gracias al IoT puede manejar autónomamente y crear rutas más eficientes diseñadas con base a la batería del automóvil, el destino y distintas estaciones de carga para el vehículo. Además, cuenta con un software que avisa al usuario si el automóvil tiene algún problema y este puede comunicarse fácilmente con la agencia y en caso de accidentes automovilísticos podría comunicarse con servicios de ayuda. 
+
+Los datos que genera este modelo son principalmente datos no estructurados que a traves de machine lerning y deep lerning se pueden convertir a datos semi-estructurados para facilitar su analisis en la nube, estos datos son desde las credenciales unicas de cada usuario (como su dirección IP) hasta los puntos de geolocalizacion de este mismo.
 
 # Guía rápida introductoria al uso de GitHub, sus comandos básicos y recursos de apoyo en línea. 
 
