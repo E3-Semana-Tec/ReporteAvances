@@ -36,7 +36,9 @@ Para saber más: [link](https://www.att.com.mx/newsroom/noticia/att-conecta-el-n
 - ¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
 - ¿Qué problemática o necesidad resuelve?
 
-[Contestar aquí]
+Qualcomm es una compañía estadounidense que produce chipsets para la tecnología móvil CDMA y W-CDMA, son los creadores y diseñadores de los procesadores Snapdragon, también es responsable del cliente de correo electrónico Eudora. Entre sus principales productos está Brew, es una plataforma que permite la creación de aplicaciones para dispositivos móviles y Qchat. Es uno de los principales suministradores de la familia de procesadores para teléfonos inteligentes Snapdragon. Es un desarrollador de semiconductores para redes y comunicaciones, Qualcomm Atheros. También fabrica un sistema de recarga inalámbrica de vehículos eléctricos (Wireless Electric Vehicle Charging - WEVC) denominado Qualcomm Halo, esta compañía se encuentra sujeta al sector de las Nuevas Tecnologías de la Información y la Comunicación (TIC), el cual está compuesto por los sectores manufactureros y de servicios cuya actividad principal está ligada al desarrollo, producción, comercialización y uso intensivo de las mismas, dado que conecta con sus contactos clave, proyectos, accionistas y noticias relacionadas. 
+
+Su modelo en el que utilizan el internet de las cosas (IOTS) es brindando ayuda a sus clientes para poder comercializar sus productos de una manera más rápida y con costos beneficiosos para ambas partes de esa manera solucionan la problemática, utilizando plataformas optimizadas en las áreas de cuerpos inteligentes, hogares inteligentes y ciudades inteligentes.
 
 # El modelo de uso de IoT seleccionado colaborativamente. (esto se removera al finalizar el llenado, apliquen el mismo formato que en las anteriores)
 - ¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?
