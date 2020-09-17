@@ -6,7 +6,11 @@
 - ¿En qué consiste su modelo de uso de IoT? ¿Es una App, una plataforma en la nube, etc.)?
 - ¿Qué problemática o necesidad resuelve?
 
-[Contestar aquí]
+La Empresa Tesla De Elon Musk es del ramo automotriz y es una empresa la cual tiene como misión crear los mejores automóviles eléctricos y la mejor calidad a su consumidor. Es una empresa enfocada en el futuro y en la ecología. Sus principales funciones que la diferencian de otras marcas de automoviles son que fueron pioneros en la elaboracion de automoviles completamente electricos y son los mas avanzados en esa area y ademas su manejo autonomo lo cual genera un gran confort al propietario a la hora de trasladarse a lugares lejanos.
+
+El modelo IoT que actualmente utilizan es la geolocalización y creación de rutas para que se llegue al destino sin problemas de batería ni contratiempos. Este sistema de ruta genera un camio en el cual si el vehículo lo requiere tenga una estación de carga en el transcurso del recorrido y llegar al destino con la mayor carga posible y así no tener muchos inconvenientes. Tambien su geolocalizacion ayuda al automovil a recoger al propietario en distintos lugares, obviamente tiene sus limitantes. Y en cuento al menejo autonomo en su sistema de localizacion de objetos por medio de distintas camaras y sensores alrededor del carro genera una autonomia segura. Estos beneficios le generan una gran comodidad al conductor y ademas de una gran seguridad a la hora de manejar 
+
+
 
 ## ![Image](https://github.com/E3-Semana-Tec/ReporteAvances/blob/master/Imagenes/att-logo1_opt.png)
 
