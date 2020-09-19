@@ -1,6 +1,6 @@
 # Empresas identificadas 
 
-## ![Image](https://github.com/E3-Semana-Tec/ReporteAvances/blob/master/Imagenes/tesla-logo-text-png-7_opt.png)
+## ![Image](https://github.com/E3-Semana-Tec/ReporteAvances/blob/master/Imagenes/tesla-logo-text-png-7_opt.png?raw=true)
 
 
 La Empresa Tesla De Elon Musk es del ramo automotriz y es una empresa la cual tiene como misión crear los mejores automóviles eléctricos y la mejor calidad a su consumidor. Es una empresa enfocada en el futuro y en la ecología. Sus principales funciones que la diferencian de otras marcas de automoviles son que fueron pioneros en la elaboracion de automoviles completamente electricos y son los mas avanzados en esa area y ademas su manejo autonomo lo cual genera un gran confort al propietario a la hora de trasladarse a lugares lejanos.
@@ -9,7 +9,7 @@ El modelo IoT que actualmente utilizan es la geolocalización y creación de rut
 
 
 
-## ![Image](https://github.com/E3-Semana-Tec/ReporteAvances/blob/master/Imagenes/att-logo1_opt.png)
+## ![Image](https://github.com/E3-Semana-Tec/ReporteAvances/blob/master/Imagenes/att-logo1_opt.png?raw=true)
 
 
 A continuación, se presenta una colaboración entre tres empresas para desarrollar un nuevo servicio más eficiente e innovador para los consumidores. 
@@ -21,7 +21,7 @@ De esta forma, Find My Kia ayuda a todos los clientes de KIA Motors en la recupe
 Para saber más: [link](https://www.att.com.mx/newsroom/noticia/att-conecta-el-nuevo-desarrollo-de-kia-motors)
 
 
-## ![Image](https://github.com/E3-Semana-Tec/ReporteAvances/blob/master/Imagenes/qualcomlogo.png)
+## ![Image](https://github.com/E3-Semana-Tec/ReporteAvances/blob/master/Imagenes/qualcomlogo.png?raw=true)
 
 
 Qualcomm es una compañía estadounidense que produce chipsets para la tecnología móvil CDMA y W-CDMA, son los creadores y diseñadores de los procesadores Snapdragon, también es responsable del cliente de correo electrónico Eudora. Entre sus principales productos está Brew, es una plataforma que permite la creación de aplicaciones para dispositivos móviles y Qchat. Es uno de los principales suministradores de la familia de procesadores para teléfonos inteligentes Snapdragon. Es un desarrollador de semiconductores para redes y comunicaciones, Qualcomm Atheros. También fabrica un sistema de recarga inalámbrica de vehículos eléctricos (Wireless Electric Vehicle Charging - WEVC) denominado Qualcomm Halo, esta compañía se encuentra sujeta al sector de las Nuevas Tecnologías de la Información y la Comunicación (TIC), el cual está compuesto por los sectores manufactureros y de servicios cuya actividad principal está ligada al desarrollo, producción, comercialización y uso intensivo de las mismas, dado que conecta con sus contactos clave, proyectos, accionistas y noticias relacionadas. 
